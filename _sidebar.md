@@ -14,6 +14,8 @@
   - [双向链表应用实例](/DataStructures/双向链表应用实例.md)
   - [数组模拟栈](/DataStructures/数组模拟栈.md)
   - [栈实现综合计算器（中缀表达式）](/DataStructures/栈实现综合计算器（中缀表达式）.md)
+  - [递归](/DataStructures/递归.md)
+  - [排序算法](/DataStructures/排序算法.md)
   
   
 
